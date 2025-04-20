@@ -1,0 +1,14 @@
+{
+  "name": "react-native-time-settings-checker",
+  "title": "React Native time settings checker",
+  "version": "1.0.0",
+  "description": "React native module to get Auto Date time and Auto Timezone settings",
+  "types": "index.d.ts",
+  "main": "index.js",
+  "keywords": ["react-native", "android", "native-module"],
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "react-native": ">=0.71.0"
+  }
+}
